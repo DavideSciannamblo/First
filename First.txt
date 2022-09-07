@@ -1,3 +1,3 @@
-1.Text
-2.Text1
-3.A small amount but still respectable amount of text which is now becoming a large amount of text due to the considerably noticeable drastic difference in text between line 3 and 4
+text
+texting
+A small amount but still respectable amount of text which is now becoming a large amount of text due to the considerably noticeable drastic difference in text between line 3 and 4
